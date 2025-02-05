@@ -13,7 +13,7 @@ Instructor: David Ketcheson
 Instructor's office: Al-Khawarizmi building, Room 4240  
 Office hours: By appointment  
 
-Teaching assistant: TBD  
+Teaching assistant: Lenin Riera 
 Office hours: TBD
 
 Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equations”, by R. J. LeVeque.  
