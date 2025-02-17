@@ -17,3 +17,4 @@ This week we will cover Sections 2.12 and 2.16.
 ## Week 4
 
 We will cover Chapter 3 and Sections 4.1, 4.2, and 4.6 of Chapter 4.
+Homework #2 is now available and is due Feb. 27th.
