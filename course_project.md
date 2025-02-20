@@ -6,7 +6,7 @@ Requirements for the course project consist of 3 parts:
 2. Progress report (20%)
 3. Presentation (60%)
 
-## Proposal (due Feb. 20th)
+## Proposal (due Feb. 24th)
 For this part, you must write a 2-page proposal explaining:
   - The topic of your project, including a basic description and any equations or algorithms that you will focus on
   - What references you plan to use (paper(s), textbook(s), etc.)
