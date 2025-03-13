@@ -18,3 +18,13 @@ This week we will cover Sections 2.12 and 2.16.
 
 We will cover Chapter 3 and Sections 4.1, 4.2, and 4.6 of Chapter 4.
 Homework #2 is now available and is due Feb. 27th.
+
+## Weeks 5-6
+
+We will cover Chapters 5-6 of the text.
+Homework 3 is due March 13th.
+
+## Week 7
+
+We will cover chapter 7 of the text.
+
